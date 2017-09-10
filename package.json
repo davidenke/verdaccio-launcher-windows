@@ -1,7 +1,7 @@
 {
   "name": "verdaccio-launcher-windows",
   "version": "0.0.1",
-  "description": "A windows verdaccio launcher",
+  "description": "A windows launcher running verdaccio npm registry locally in the background",
   "main": "verdaccio-launcher.vbs",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
