@@ -1,0 +1,14 @@
+{
+  "name": "verdaccio-launcher-windows",
+  "version": "0.0.1",
+  "description": "A windows verdaccio launcher",
+  "main": "verdaccio-launcher.vbs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Enke <post@davidenke.de>",
+  "license": "MIT",
+  "dependencies": {
+    "verdaccio": "2.3.6"
+  }
+}
