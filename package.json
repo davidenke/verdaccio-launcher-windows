@@ -1,5 +1,5 @@
 {
-  "name": "verdaccio-launcher-windows",
+  "name": "@davidenke/verdaccio-launcher-windows",
   "version": "0.0.1",
   "description": "A windows launcher running verdaccio npm registry locally in the background",
   "main": "verdaccio-launcher.vbs",
